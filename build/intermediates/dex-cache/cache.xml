@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\ankit\.android\build-cache\6fd1c73ac9c4f18b3c77fec70e9101b731eb1e1f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="C:\Users\ankit\Downloads\Belief-master (1)\Belief-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7339c57f80fc546132dfeb4af12b8a39fbb6a479\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ankit\.android\build-cache\5a2596415817a9bc57d5e45963ed9b0e6040de7f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="C:\Users\ankit\Downloads\Belief-master (1)\Belief-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_faa5a2177daccd40a1257727c0eeee2117953ce1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ankit\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.0\support-annotations-25.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="C:\Users\ankit\Downloads\Belief-master (1)\Belief-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.1.0_4e472d42453c79653579075232189a04571487f0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ankit\.android\build-cache\ac442e570bce7b32a4f676eecc244e019861c38f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="C:\Users\ankit\Downloads\Belief-master (1)\Belief-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9814a63354a192f3025338087ec535aec8918f2a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ankit\.android\build-cache\bfcac4cd56976c36d27ebe9c8ef13540224fb4bc\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\ankit\Downloads\Belief-master (1)\Belief-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_68d0d4bc7e9984effef85be2cf38c5eee3a32c66\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ankit\.android\build-cache\13744baa1dc7e0e1dc8f78ff287d1656a2ca2ea4\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="C:\Users\ankit\Downloads\Belief-master (1)\Belief-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_83514b11dc94f417ca5f290f35316c18aab634c9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ankit\Downloads\Belief-master (1)\Belief-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5d3e3070f9cfe329ecc93bf92850dfa4be9990c7">
+        <dex dex="C:\Users\ankit\Downloads\Belief-master (1)\Belief-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_af46b9f621dcb55ff470e669dd1c78e14b250a4b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ankit\.android\build-cache\033525ca85a85792fcc883855aa6a300ddc4b8a2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="C:\Users\ankit\Downloads\Belief-master (1)\Belief-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b0d10ad6a931b349758bee8425dabc067c365720\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ankit\Downloads\Belief-master (1)\Belief-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="C:\Users\ankit\Downloads\Belief-master (1)\Belief-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_3d5492f6c28e5bb5490110fd997818c2eb4ff394\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ankit\.android\build-cache\97875b78fc79861d5a1d64c5dcfe3812d135d4e3\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="C:\Users\ankit\Downloads\Belief-master (1)\Belief-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0d630b01faf462ec361b3712301d19208f7f8589\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ankit\.android\build-cache\430a04ab71dbef6987b798c6bfec779194a8e5b4\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="C:\Users\ankit\Downloads\Belief-master (1)\Belief-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ae9a230685ce22cf28a941f7e5705ddb95f3ff11\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ankit\.android\build-cache\073ceca3417364788e8e4440d7c045bc8c660277\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="C:\Users\ankit\Downloads\Belief-master (1)\Belief-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7e6e20df22077e8d26f7004dba6cc410ea51249a\classes.dex" />
+    </item>
+
+</items>
